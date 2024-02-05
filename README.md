@@ -30,7 +30,7 @@ Begin your project development by adding your source code, documentation, and ot
 3. **Engage the Community:**
 Encourage collaboration and contributions by following the provided contributing guidelines. Foster a welcoming community by providing clear instructions for issue reporting and pull requests.
 
-##Directory Structure:
+## Directory Structure:
 -**src/:** Placeholder for source code files.
 -**docs/:** Directory for project documentation.
 -**tests/:** Directory for test files.
