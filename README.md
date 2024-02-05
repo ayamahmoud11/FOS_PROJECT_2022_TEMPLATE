@@ -21,28 +21,29 @@ Welcome to the FOS Project 2022 Template, a comprehensive template designed to k
    cd FOS_PROJECT_2022_TEMPLATE
 
 
-2. Customize the Template:
+2. **Customize the Template:**
 Replace placeholders in the template with your project-specific details, including project name, description, and contact information.
 
-3. Start Coding:
+3. **Start Coding:**
 Begin your project development by adding your source code, documentation, and other project-specific files.
 
-3. Engage the Community:
+3. **Engage the Community:**
 Encourage collaboration and contributions by following the provided contributing guidelines. Foster a welcoming community by providing clear instructions for issue reporting and pull requests.
 
-Directory Structure
-src/: Placeholder for source code files.
-docs/: Directory for project documentation.
-tests/: Directory for test files.
-LICENSE: MIT License file.
+**Directory Structure:**
+#src/: Placeholder for source code files.
+#docs/: Directory for project documentation.
+#tests/: Directory for test files.
+
+**LICENSE: MIT License file.**
 .github/: Directory containing GitHub-specific configuration files.
 Contributing
 Contributions are welcome! Before contributing, please read the Contribution Guidelines to understand the development process and code of conduct.
 
-License
+**License**
 This FOS Project 2022 Template is open-source software licensed under the MIT License. Feel free to use, modify, and share it as you embark on your open-source journey.
 
-Acknowledgments
+**Acknowledgments**
 Thank you for choosing the FOS Project 2022 Template. We hope it accelerates your project development and fosters a vibrant open-source community.
 
 Happy coding!
